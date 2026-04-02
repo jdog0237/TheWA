@@ -1,0 +1,2 @@
+# TheWA
+Computer Architecture Project 
